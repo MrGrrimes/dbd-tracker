@@ -1,0 +1,261 @@
+[
+    {
+        "id": 1,
+        "name": "The Trapper",
+        "icon": "/potraits/trapper.png",
+        "priority": 1
+    },
+    {
+        "id": 2,
+        "name": "The Wraith",
+        "icon": "/potraits/wraith.png",
+        "priority": 2
+    },
+    {
+        "id": 3,
+        "name": "The Hillbilly",
+        "icon": "/potraits/hillbilly.png",
+        "priority": 3
+    },
+    {
+        "id": 4,
+        "name": "The Nurse",
+        "icon": "/potraits/nurse.png",
+        "priority": 4
+    },
+    {
+        "id": 5,
+        "name": "The Shape",
+        "icon": "/potraits/shape.png",
+        "priority": 5
+    },
+    {
+        "id": 6,
+        "name": "The Hag",
+        "icon": "/potraits/hag.png",
+        "priority": 6
+    },
+    {
+        "id": 7,
+        "name": "The Doctor",
+        "icon": "/potraits/doctor.png",
+        "priority": 7
+    },
+    {
+        "id": 8,
+        "name": "The Huntress",
+        "icon": "/potraits/huntress.png",
+        "priority": 8
+    },
+    {
+        "id": 9,
+        "name": "The Cannibal",
+        "icon": "/potraits/cannibal.png",
+        "priority": 9
+    },
+    {
+        "id": 10,
+        "name": "The Nightmare",
+        "icon": "/potraits/nightmare.png",
+        "priority": 10
+    },
+    {
+        "id": 11,
+        "name": "The Pig",
+        "icon": "/potraits/pig.png",
+        "priority": 11
+    },
+    {
+        "id": 12,
+        "name": "The Clown",
+        "icon": "/potraits/clown.png",
+        "priority": 12
+    },
+    {
+        "id": 13,
+        "name": "The Spirit",
+        "icon": "/potraits/spirit.png",
+        "priority": 13
+    },
+    {
+        "id": 14,
+        "name": "The Legion",
+        "icon": "/potraits/legion.png",
+        "priority": 14
+    },
+    {
+        "id": 15,
+        "name": "The Plague",
+        "icon": "/potraits/plague.png",
+        "priority": 15
+    },
+    {
+        "id": 16,
+        "name": "The Ghost Face",
+        "icon": "/potraits/ghostface.png",
+        "priority": 16
+    },
+    {
+        "id": 17,
+        "name": "The Demogorgon",
+        "icon": "/potraits/demogorgon.png",
+        "priority": 17
+    },
+    {
+        "id": 18,
+        "name": "The Oni",
+        "icon": "/potraits/oni.png",
+        "priority": 18
+    },
+    {
+        "id": 19,
+        "name": "The Deathslinger",
+        "icon": "/potraits/deathslinger.png",
+        "priority": 19
+    },
+    {
+        "id": 20,
+        "name": "The Executioner",
+        "icon": "/potraits/executioner.png",
+        "priority": 20
+    },
+    {
+        "id": 21,
+        "name": "The Blight",
+        "icon": "/potraits/blight.png",
+        "priority": 21
+    },
+    {
+        "id": 22,
+        "name": "The Twins",
+        "icon": "/potraits/twins.png",
+        "priority": 22
+    },
+    {
+        "id": 23,
+        "name": "The Trickster",
+        "icon": "/potraits/trickster.png",
+        "priority": 23
+    },
+    {
+        "id": 24,
+        "name": "The Nemesis",
+        "icon": "/potraits/nemesis.png",
+        "priority": 24
+    },
+    {
+        "id": 25,
+        "name": "The Cenobite",
+        "icon": "/potraits/cenobite.png",
+        "priority": 25
+    },
+    {
+        "id": 26,
+        "name": "The Artist",
+        "icon": "/potraits/artist.png",
+        "priority": 26
+    },
+    {
+        "id": 27,
+        "name": "The Onryō",
+        "icon": "/potraits/onryo.png",
+        "priority": 27
+    },
+    {
+        "id": 28,
+        "name": "The Dredge",
+        "icon": "/potraits/dredge.png",
+        "priority": 28
+    },
+    {
+        "id": 29,
+        "name": "The Mastermind",
+        "icon": "/potraits/mastermind.png",
+        "priority": 29
+    },
+    {
+        "id": 30,
+        "name": "The Knight",
+        "icon": "/potraits/knight.png",
+        "priority": 30
+    },
+    {
+        "id": 31,
+        "name": "The Skull Merchant",
+        "icon": "/potraits/skull-merchant.png",
+        "priority": 31
+    },
+    {
+        "id": 32,
+        "name": "The Singularity",
+        "icon": "/potraits/singularity.png",
+        "priority": 32
+    },
+    {
+        "id": 33,
+        "name": "The Xenomorph",
+        "icon": "/potraits/xenomorph.png",
+        "priority": 33
+    },
+    {
+        "id": 34,
+        "name": "The Good Guy",
+        "icon": "/potraits/good-guy.png",
+        "priority": 34
+    },
+    {
+        "id": 35,
+        "name": "The Unknown",
+        "icon": "/potraits/unknown.png",
+        "priority": 35
+    },
+    {
+        "id": 36,
+        "name": "The Lich",
+        "icon": "/potraits/lich.png",
+        "priority": 36
+    },
+    {
+        "id": 37,
+        "name": "The Dark Lord",
+        "icon": "/potraits/dark-lord.png",
+        "priority": 37
+    },
+    {
+        "id": 38,
+        "name": "The Houndmaster",
+        "icon": "/potraits/houndmaster.png",
+        "priority": 38
+    },
+    {
+        "id": 39,
+        "name": "The Ghoul",
+        "icon": "/potraits/ghoul.png",
+        "priority": 39
+    },
+    {
+        "id": 40,
+        "name": "The Animatronic",
+        "icon": "/potraits/animatronic.png",
+        "priority": 40
+    },
+    {
+        "id": 41,
+        "name": "The Krasue",
+        "icon": "/potraits/krasue.png",
+        "priority": 41
+    },
+    {
+        "id": 42,
+        "name": "The First",
+        "icon": "/potraits/first.png",
+        "priority": 42
+    },
+    {
+        "id": 43,
+        "name": "The Slasher",
+        "icon": "/potraits/slasher.png",
+        "priority": 43,
+        "disabled": true
+    }
+]

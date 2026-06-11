@@ -1,0 +1,262 @@
+{
+    "Blood Amber": {
+        "id": 68,
+        "itemsCategory": 1,
+        "icon": "/icons/items/addons/bloodAmber.png"
+    },
+    "Braided Bauble": {
+        "id": 69,
+        "itemsCategory": 1,
+        "icon": "/icons/items/addons/braidedBauble.png"
+    },
+    "Friendship Charm": {
+        "id": 70,
+        "itemsCategory": 1,
+        "icon": "/icons/items/addons/friendshipCharm.png"
+    },
+    "Shrill Whistle": {
+        "id": 71,
+        "itemsCategory": 1,
+        "icon": "/icons/items/addons/shrillWhistle.png"
+    },
+    "Unique Wedding Ring": {
+        "id": 72,
+        "itemsCategory": 1,
+        "icon": "/icons/items/addons/uniqueWeddingRing.png"
+    },
+    "Battery": {
+        "id": 20,
+        "itemsCategory": 3,
+        "icon": "/icons/items/addons/battery.png"
+    },
+    "Focus Lens": {
+        "id": 22,
+        "itemsCategory": 3,
+        "icon": "/icons/items/addons/focusLens.png"
+    },
+    "Heavy Duty Battery": {
+        "id": 23,
+        "itemsCategory": 3,
+        "icon": "/icons/items/addons/heavyDutyBattery.png"
+    },
+    "High-End Sapphire Lens": {
+        "id": 24,
+        "itemsCategory": 3,
+        "icon": "/icons/items/addons/high-EndSapphireLens.png"
+    },
+    "Intense Halogen": {
+        "id": 25,
+        "itemsCategory": 3,
+        "icon": "/icons/items/addons/intenseHalogen.png"
+    },
+    "Leather Grip": {
+        "id": 26,
+        "itemsCategory": 3,
+        "icon": "/icons/items/addons/leatherGrip.png"
+    },
+    "Long Life Battery": {
+        "id": 27,
+        "itemsCategory": 3,
+        "icon": "/icons/items/addons/longLifeBattery.png"
+    },
+    "Low Amp Filament": {
+        "id": 28,
+        "itemsCategory": 3,
+        "icon": "/icons/items/addons/lowAmpFilament.png"
+    },
+    "Odd Bulb": {
+        "id": 29,
+        "itemsCategory": 3,
+        "icon": "/icons/items/addons/oddBulb.png"
+    },
+    "Power Bulb": {
+        "id": 30,
+        "itemsCategory": 3,
+        "icon": "/icons/items/addons/powerBulb.png"
+    },
+    "Rubber Grip": {
+        "id": 31,
+        "itemsCategory": 3,
+        "icon": "/icons/items/addons/rubberGrip.png"
+    },
+    "TIR Optic": {
+        "id": 32,
+        "itemsCategory": 3,
+        "icon": "/icons/items/addons/tirOptic.png"
+    },
+    "Wide Lens": {
+        "id": 33,
+        "itemsCategory": 3,
+        "icon": "/icons/items/addons/wideLens.png"
+    },
+    "Battered Tape": {
+        "id": 73,
+        "itemsCategory": 5,
+        "icon": "/icons/items/addons/batteredTape.png"
+    },
+    "Crimson Stamp": {
+        "id": 74,
+        "itemsCategory": 5,
+        "icon": "/icons/items/addons/crimsonStamp.png"
+    },
+    "Glowing Ink": {
+        "id": 75,
+        "itemsCategory": 5,
+        "icon": "/icons/items/addons/glowingInk.png"
+    },
+    "Gnarled Compass": {
+        "id": 76,
+        "itemsCategory": 5,
+        "icon": "/icons/items/addons/gnarledCompass.png"
+    },
+    "Sharpened Flint": {
+        "id": 77,
+        "itemsCategory": 5,
+        "icon": "/icons/items/addons/sharpenedFlint.png"
+    },
+    "Abdominal Dressing": {
+        "id": 43,
+        "itemsCategory": 6,
+        "icon": "/icons/items/addons/abdominalDressing.png"
+    },
+    "Anti-Exhaustion Syringe": {
+        "id": 44,
+        "itemsCategory": 6,
+        "icon": "/icons/items/addons/anti-haemorrhagicSyringe.png"
+    },
+    "Bandages": {
+        "id": 45,
+        "itemsCategory": 6,
+        "icon": "/icons/items/addons/bandages.png"
+    },
+    "Butterfly Tape": {
+        "id": 46,
+        "itemsCategory": 6,
+        "icon": "/icons/items/addons/butterflyTape.png"
+    },
+    "Gauze Roll": {
+        "id": 47,
+        "itemsCategory": 6,
+        "icon": "/icons/items/addons/gauzeRoll.png"
+    },
+    "Gel Dressings": {
+        "id": 48,
+        "itemsCategory": 6,
+        "icon": "/icons/items/addons/gelDressings.png"
+    },
+    "Medical Scissors": {
+        "id": 49,
+        "itemsCategory": 6,
+        "icon": "/icons/items/addons/medicalScissors.png"
+    },
+    "Needle & Thread": {
+        "id": 50,
+        "itemsCategory": 6,
+        "icon": "/icons/items/addons/needleAndThread.png"
+    },
+    "Rubber Gloves": {
+        "id": 52,
+        "itemsCategory": 6,
+        "icon": "/icons/items/addons/rubberGloves.png"
+    },
+    "Self Adherent Wrap": {
+        "id": 53,
+        "itemsCategory": 6,
+        "icon": "/icons/items/addons/selfAdherentWrap.png"
+    },
+    "Sponge": {
+        "id": 54,
+        "itemsCategory": 6,
+        "icon": "/icons/items/addons/sponge.png"
+    },
+    "Styptic Agent": {
+        "id": 55,
+        "itemsCategory": 6,
+        "icon": "/icons/items/addons/stypticAgent.png"
+    },
+    "Surgical Suture": {
+        "id": 56,
+        "itemsCategory": 6,
+        "icon": "/icons/items/addons/surgicalSuture.png"
+    },
+    "Brand New Part": {
+        "id": 57,
+        "itemsCategory": 7,
+        "icon": "/icons/items/addons/brandNewPart.png"
+    },
+    "Clean Rag": {
+        "id": 58,
+        "itemsCategory": 7,
+        "icon": "/icons/items/addons/cleanRag.png"
+    },
+    "Cutting Wire": {
+        "id": 59,
+        "itemsCategory": 7,
+        "icon": "/icons/items/addons/cuttingWire.png"
+    },
+    "Grip Wrench": {
+        "id": 60,
+        "itemsCategory": 7,
+        "icon": "/icons/items/addons/gripWrench.png"
+    },
+    "Hacksaw": {
+        "id": 61,
+        "itemsCategory": 7,
+        "icon": "/icons/items/addons/hacksaw.png"
+    },
+    "Instructions": {
+        "id": 62,
+        "itemsCategory": 7,
+        "icon": "/icons/items/addons/instructions.png"
+    },
+    "Protective Gloves": {
+        "id": 63,
+        "itemsCategory": 7,
+        "icon": "/icons/items/addons/protectiveGloves.png"
+    },
+    "Scraps": {
+        "id": 64,
+        "itemsCategory": 7,
+        "icon": "/icons/items/addons/scraps.png"
+    },
+    "Socket Swivels": {
+        "id": 65,
+        "itemsCategory": 7,
+        "icon": "/icons/items/addons/socketSwivels.png"
+    },
+    "Spring Clamp": {
+        "id": 66,
+        "itemsCategory": 7,
+        "icon": "/icons/items/addons/springClamp.png"
+    },
+    "Wire Spool": {
+        "id": 67,
+        "itemsCategory": 7,
+        "icon": "/icons/items/addons/wireSpool.png"
+    },
+    "Mushroom Formula": {
+        "id": 78,
+        "itemsCategory": 8,
+        "icon": "/icons/items/addons/mushroomFormula.png"
+    },
+    "Oily Sap": {
+        "id": 79,
+        "itemsCategory": 8,
+        "icon": "/icons/items/addons/oilySap.png"
+    },
+    "Potent Extract": {
+        "id": 80,
+        "itemsCategory": 8,
+        "icon": "/icons/items/addons/potentExtract.png"
+    },
+    "Reactive Compound": {
+        "id": 81,
+        "itemsCategory": 8,
+        "icon": "/icons/items/addons/reactiveCompound.png"
+    },
+    "Volcanic Stone": {
+        "id": 82,
+        "itemsCategory": 8,
+        "icon": "/icons/items/addons/volcanicStone.png"
+    }
+}

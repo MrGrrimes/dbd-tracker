@@ -1,0 +1,413 @@
+{
+    "Airlock Doors": {
+        "id": 1,
+        "icon": "/icons/offerings/airlockdoors.png"
+    },
+    "Alien Flora": {
+        "id": 2,
+        "icon": "/icons/offerings/alienflora.png"
+    },
+    "Annotated Blueprint": {
+        "id": 3,
+        "icon": "/icons/offerings/annotatedblueprint.png"
+    },
+    "Ardent Raven Wreath": {
+        "id": 5,
+        "charType": "K",
+        "icon": "/icons/offerings/ardentravenwreath.png"
+    },
+    "Ardent Shrike Wreath": {
+        "id": 6,
+        "charType": "K",
+        "icon": "/icons/offerings/ardentshrikewreath.png"
+    },
+    "Ardent Spotted Owl Wreath": {
+        "id": 7,
+        "charType": "K",
+        "icon": "/icons/offerings/ardentspottedowlwreath.png"
+    },
+    "Ardent Tanager Wreath": {
+        "id": 8,
+        "charType": "K",
+        "icon": "/icons/offerings/ardenttanagerwreath.png"
+    },
+    "Azarov's Key": {
+        "id": 9,
+        "icon": "/icons/offerings/azarovskey.png"
+    },
+    "Beef Tallow Mixture": {
+        "id": 11,
+        "icon": "/icons/offerings/beeftallowmixture.png"
+    },
+    "Black Salt Statuette": {
+        "id": 12,
+        "charType": "S",
+        "icon": "/icons/offerings/blacksaltstatuette.png"
+    },
+    "Black Ward": {
+        "id": 13,
+        "charType": "K",
+        "icon": "/icons/offerings/blackward.png"
+    },
+    "Bloodied Blueprint": {
+        "id": 14,
+        "icon": "/icons/offerings/bloodiedblueprint.png"
+    },
+    "Bloody Party Streamers": {
+        "id": 16,
+        "icon": "/icons/offerings/bloodypartystreamers.png"
+    },
+    "Bound Envelope": {
+        "id": 17,
+        "charType": "S",
+        "icon": "/icons/offerings/boundenvelope.png"
+    },
+    "Bog Laurel Sachet": {
+        "id": 18,
+        "charType": "S",
+        "icon": "/icons/offerings/boglaurelsachet.png"
+    },
+    "Chalk Pouch": {
+        "id": 19,
+        "charType": "S",
+        "icon": "/icons/offerings/chalkpouch.png"
+    },
+    "Charred Wedding Photograph": {
+        "id": 20,
+        "icon": "/icons/offerings/charredweddingphotograph.png"
+    },
+    "Clear Reagent": {
+        "id": 21,
+        "icon": "/icons/offerings/clearreagent.png"
+    },
+    "Coconut Scream Pie": {
+        "id": 22,
+        "icon": "/icons/offerings/9thanniversary.png"
+    },
+    "Cream Chalk Pouch": {
+        "id": 23,
+        "charType": "S",
+        "icon": "/icons/offerings/creamchalkpouch.png"
+    },
+    "Crispleaf Amaranth Sachet": {
+        "id": 24,
+        "charType": "S",
+        "icon": "/icons/offerings/crispleafamaranthsachet.png"
+    },
+    "Crow's Eye": {
+        "id": 25,
+        "icon": "/icons/offerings/crowseye.png"
+    },
+    "Cut Coin": {
+        "id": 26,
+        "charType": "K",
+        "icon": "/icons/offerings/cutcoin.png"
+    },
+    "Damaged Photo": {
+        "id": 27,
+        "icon": "/icons/offerings/damagedphoto.png"
+    },
+    "Devout Raven Wreath": {
+        "id": 28,
+        "charType": "K",
+        "icon": "/icons/offerings/devoutravenwreath.png"
+    },
+    "Devout Shrike Wreath": {
+        "id": 29,
+        "charType": "K",
+        "icon": "/icons/offerings/devoutshrikewreath.png"
+    },
+    "Devout Spotted Owl Wreath": {
+        "id": 30,
+        "charType": "K",
+        "icon": "/icons/offerings/devoutspottedowlwreath.png"
+    },
+    "Devout Tanager Wreath": {
+        "id": 31,
+        "charType": "K",
+        "icon": "/icons/offerings/devouttanagerwreath.png"
+    },
+    "Ebony Memento Mori": {
+        "id": 32,
+        "charType": "K",
+        "icon": "/icons/offerings/ebonymementomori.png"
+    },
+    "Escape! Cake": {
+        "id": 33,
+        "charType": "S",
+        "icon": "/icons/offerings/escapecake.png"
+    },
+    "Faint Reagent": {
+        "id": 34,
+        "icon": "/icons/offerings/faintreagent.png"
+    },
+    "Fragrant Bog Laurel": {
+        "id": 35,
+        "charType": "S",
+        "icon": "/icons/offerings/fragrantboglaurel.png"
+    },
+    "Fragrant Crispleaf Amaranth": {
+        "id": 36,
+        "charType": "S",
+        "icon": "/icons/offerings/fragrantcrispleafamaranth.png"
+    },
+    "Fragrant Primrose Blossom": {
+        "id": 37,
+        "charType": "S",
+        "icon": "/icons/offerings/fragrantprimroseblossom.png"
+    },
+    "Fragrant Sweet William": {
+        "id": 38,
+        "charType": "S",
+        "icon": "/icons/offerings/fragrantsweetwilliam.png"
+    },
+    "Fresh Bog Laurel": {
+        "id": 39,
+        "charType": "S",
+        "icon": "/icons/offerings/freshboglaurel.png"
+    },
+    "Fresh Crispleaf Amaranth": {
+        "id": 40,
+        "charType": "S",
+        "icon": "/icons/offerings/freshcrispleafamaranth.png"
+    },
+    "Fresh Primrose Blossom": {
+        "id": 41,
+        "charType": "S",
+        "icon": "/icons/offerings/freshprimroseblossom.png"
+    },
+    "Fresh Sweet William": {
+        "id": 42,
+        "charType": "S",
+        "icon": "/icons/offerings/freshsweetwilliam.png"
+    },
+    "Frightful Flan": {
+        "id": 43,
+        "icon": "/icons/offerings/frightfulflan.png"
+    },
+    "Ghastly Gateau": {
+        "id": 44,
+        "icon": "/icons/offerings/ghastlygateau.png"
+    },
+    "Grandma's Cookbook": {
+        "id": 45,
+        "icon": "/icons/offerings/granmascookbook.png"
+    },
+    "Gruesome Gateau": {
+        "id": 46,
+        "icon": "/icons/offerings/gruesomegateau.png"
+    },
+    "Hawkins National Laboratory ID": {
+        "id": 47,
+        "icon": "/icons/offerings/hawkinsnationallaboratoryid.png"
+    },
+    "Hazy Reagent": {
+        "id": 48,
+        "icon": "/icons/offerings/hazyreagent.png"
+    },
+    "Heart Locket": {
+        "id": 49,
+        "icon": "/icons/offerings/heartlocket.png"
+    },
+    "Hollow Shell": {
+        "id": 50,
+        "charType": "K",
+        "icon": "/icons/offerings/hollowshell.png"
+    },
+    "Ichorous Loam": {
+        "id": 51,
+        "icon": "/icons/offerings/ichorousloam.png"
+    },
+    "Ivory Chalk Pouch": {
+        "id": 52,
+        "charType": "S",
+        "icon": "/icons/offerings/ivorychalkpouch.png"
+    },
+    "Ivory Memento Mori": {
+        "id": 53,
+        "charType": "K",
+        "icon": "/icons/offerings/ivorymementomori.png"
+    },
+    "Jigsaw Piece": {
+        "id": 54,
+        "icon": "/icons/offerings/jigsawpiece.png"
+    },
+    "MacMillan's Phalanx Bone": {
+        "id": 55,
+        "icon": "/icons/offerings/macmillansphalanxbone.png"
+    },
+    "Mary's Letter": {
+        "id": 56,
+        "icon": "/icons/offerings/marysletter.png"
+    },
+    "Mouldy Oak": {
+        "id": 58,
+        "charType": "K",
+        "icon": "/icons/offerings/mouldyoak.png"
+    },
+    "Murky Reagent": {
+        "id": 59,
+        "icon": "/icons/offerings/murkyreagent.png"
+    },
+    "Petrified Oak": {
+        "id": 60,
+        "charType": "S",
+        "icon": "/icons/offerings/petrifiedoak.png"
+    },
+    "Primrose Blossom Sachet": {
+        "id": 61,
+        "charType": "S",
+        "icon": "/icons/offerings/primroseblossomsachet.png"
+    },
+    "Putrid Oak": {
+        "id": 62,
+        "charType": "K",
+        "icon": "/icons/offerings/putridoak.png"
+    },
+    "Raven Wreath": {
+        "id": 63,
+        "charType": "K",
+        "icon": "/icons/offerings/ravenwreath.png"
+    },
+    "Rotten Oak": {
+        "id": 65,
+        "charType": "K",
+        "icon": "/icons/offerings/rottenoak.png"
+    },
+    "RPD Badge": {
+        "id": 66,
+        "icon": "/icons/offerings/rpdbadge.png"
+    },
+    "Sacrificial Cake": {
+        "id": 67,
+        "icon": "/icons/offerings/sacrificialcake.png"
+    },
+    "Sacrificial Ward": {
+        "id": 68,
+        "icon": "/icons/offerings/sacrificialward.png"
+    },
+    "Salt Pouch": {
+        "id": 69,
+        "charType": "S",
+        "icon": "/icons/offerings/saltpouch.png"
+    },
+    "Scratched Coin": {
+        "id": 70,
+        "charType": "K",
+        "icon": "/icons/offerings/scratchedcoin.png"
+    },
+    "Screech Cobbler": {
+        "id": 71,
+        "icon": "/icons/offerings/screechcobbler.png"
+    },
+    "Sealed Envelope": {
+        "id": 72,
+        "charType": "S",
+        "icon": "/icons/offerings/sealedenvelope.png"
+    },
+    "Shattered Bottle": {
+        "id": 73,
+        "icon": "/icons/offerings/shatteredbottle.png"
+    },
+    "Shattered Glasses": {
+        "id": 74,
+        "icon": "/icons/offerings/shatteredglasses.png"
+    },
+    "Shiny Coin": {
+        "id": 75,
+        "charType": "S",
+        "icon": "/icons/offerings/shinycoin.png"
+    },
+    "Shrike Wreath": {
+        "id": 76,
+        "charType": "K",
+        "icon": "/icons/offerings/shrikewreath.png"
+    },
+    "Shroud of Separation": {
+        "id": 77,
+        "charType": "S",
+        "icon": "/icons/offerings/shroudofseparation.png"
+    },
+    "Shroud of Vanishing": {
+        "id": 78,
+        "charType": "K",
+        "icon": "/icons/offerings/shroudofvanishing.png"
+    },
+    "Shroud of Union": {
+        "id": 79,
+        "charType": "S",
+        "icon": "/icons/offerings/shroudofunion.png"
+    },
+    "Spotted Owl Wreath": {
+        "id": 80,
+        "charType": "K",
+        "icon": "/icons/offerings/spottedowlwreath.png"
+    },
+    "Strode Realty Key": {
+        "id": 81,
+        "icon": "/icons/offerings/stroderealtykey.png"
+    },
+    "Survivor Pudding": {
+        "id": 82,
+        "charType": "K",
+        "icon": "/icons/offerings/survivorpudding.png"
+    },
+    "Sweet William Sachet": {
+        "id": 83,
+        "charType": "S",
+        "icon": "/icons/offerings/sweetwilliamsachet.png"
+    },
+    "Tanager Wreath": {
+        "id": 84,
+        "charType": "K",
+        "icon": "/icons/offerings/tanagerwreath.png"
+    },
+    "Tarnished Coin": {
+        "id": 85,
+        "charType": "S",
+        "icon": "/icons/offerings/tarnishedcoin.png"
+    },
+    "Terrormisu": {
+        "id": 86,
+        "icon": "/icons/offerings/terrormisu.png"
+    },
+    "The Last Mask": {
+        "id": 87,
+        "icon": "/icons/offerings/thelastmask.png"
+    },
+    "The Pied Piper": {
+        "id": 88,
+        "icon": "/icons/offerings/thepiedpiper.png"
+    },
+    "Torn Blueprint": {
+        "id": 89,
+        "icon": "/icons/offerings/tornblueprint.png"
+    },
+    "Vigo's Blueprint": {
+        "id": 90,
+        "icon": "/icons/offerings/vigosblueprint.png"
+    },
+    "Vigo's Jar of Salty Lips": {
+        "id": 91,
+        "charType": "S",
+        "icon": "/icons/offerings/vigosjarofsaltylips.png"
+    },
+    "Vigo's Shroud": {
+        "id": 92,
+        "charType": "S",
+        "icon": "/icons/offerings/vigosshroud.png"
+    },
+    "VIP Wristband": {
+        "id": 93,
+        "icon": "/icons/offerings/vipWristband.png"
+    },
+    "White Ward": {
+        "id": 94,
+        "charType": "S",
+        "icon": "/icons/offerings/whiteward.png"
+    },
+    "Yamaoka Family Crest": {
+        "id": 95,
+        "icon": "/icons/offerings/yamaokafamilycrest.png"
+    }
+}
